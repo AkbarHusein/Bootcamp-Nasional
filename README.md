@@ -87,7 +87,7 @@ Let's Code Together!!
 
 ### S
 
--Silfa maharani br padang - 2020 - universitas malikussaleh
+-
 
 ### T
 
