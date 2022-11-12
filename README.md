@@ -36,7 +36,7 @@ Let's Code Together!!
 
 ### F
 
--
+-FREDY RAMADHANTA.G - 22 - Universita almuslim
 
 ### G
 
@@ -52,11 +52,11 @@ Let's Code Together!!
 
 ### J
 
-- Jhosua Apriel Sylvester - 2021 - Universitas Pembangunan Pacabudi 
+- Jhosua Apriel Sylvester - 2021 - Universitas Pembangunan Pancabudi 
 
 ### K
 
--
+- khairijaarafah - 2020 - Universitas serambi mekkah
 
 ### L
 
@@ -78,7 +78,10 @@ Let's Code Together!!
 
 ### P
 
+
+- Putri nabila - 2022 - Universitas samudra 
 - putra ramadhan - 2022 - universitas samudra
+
 
 ### Q
 
@@ -90,7 +93,8 @@ Let's Code Together!!
 - Rauzatuljannah-2022-UniversitasAlmuslim
 
 ### S
-
+- Syahrian Lubis - 2020 - Universitas Pembangunan Panca Budi_
+=======
 - Siti Rahmah - 2021 - Universitas Teuku Umar_
 - Safril maulida - 2021 - Universitas Teuku Umar
 
