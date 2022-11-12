@@ -68,7 +68,9 @@ Let's Code Together!!
 
 ### N
 
+- Nasruddin Said - 2020 - Uin Ar-Raniry
 - NazwaSafira-2022-UniversitasAlmuslim
+
 ### O
 
 -O
