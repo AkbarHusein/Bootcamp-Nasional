@@ -5,7 +5,6 @@
 <br>
 Let's Code Together!!
 <br>
-<br>
 
 # Daftar Peserta Bootcamp
 
