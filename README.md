@@ -13,10 +13,9 @@ Let's Code Together!!
 
 ### A
 
-- Ahmad Yani - 2019 - Universitas Xyz _(Contoh format [nama - angkatan - instansi])_
+- Almaarif-2021-usm
 - Al Rizal Sukri - 2018 - Universitas Pembangunan Panca Budi
 - Al muhrezi-2022-Universitas Asahan_
-
 
 ### B
 
