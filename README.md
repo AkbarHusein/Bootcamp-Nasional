@@ -13,7 +13,7 @@ Let's Code Together!!
 
 ### A
 
-- Almaarif-2021-Universitas-usm
+- Almaarif-2021-usm
 
 ### B
 
