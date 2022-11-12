@@ -17,47 +17,47 @@ Let's Code Together!!
 
 ### B
 
--BAKSO.... BAKSO.... BAKSO....  
+- 
 
 ### C
 
--CEMAS KO DEKKKKK!!
+-
 
 ### D
 
--DONGO
+-
 
 ### E
 
--EZETTT DEKKK!!
+-
 
 ### F
 
--FERDI SAMBO - 2022 - POLSEK SUNGGAL
+-
 
 ### G
 
--G A S S
+-
 
 ### H
 
--H A U S 
+-
 
 ### I
 
--I N D O M I E
+-
 
 ### J
 
--J M B T - N -
+-
 
 ### K
 
--K I Y O W O
+-
 
 ### L
 
--L A R I .........
+-
 
 ### M
 
@@ -73,23 +73,23 @@ Let's Code Together!!
 
 ### P
 
--PUAN MAHARANI - CAPRES 2024 - BANTENG MERAH
+-
 
 ### Q
 
--Q U E E N
+-
 
 ### R
 
--R A S T A
+-
 
 ### S
 
--SESAT KO BANG!!
+-
 
 ### T
 
--TURU DEKKKK!!
+-
 
 ### U
 
@@ -109,7 +109,7 @@ Let's Code Together!!
 
 ### Y
 
--
+-Yahya Muhaimin Sinaga - 2020 - University Pembangunan Panca Budi MEDAN
 
 ### Z
 
