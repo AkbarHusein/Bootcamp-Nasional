@@ -17,6 +17,7 @@ Let's Code Together!!
 - Al Rizal Sukri - 2018 - Universitas Pembangunan Panca Budi
 - Al muhrezi-2022-Universitas Asahan_
 
+
 ### B
 
 - 
@@ -67,7 +68,7 @@ Let's Code Together!!
 
 ### N
 
--NazwaSafira-2022-UniversitasAlmuslim
+- NazwaSafira-2022-UniversitasAlmuslim
 ### O
 
 -O
@@ -82,9 +83,8 @@ Let's Code Together!!
 
 ### R
 
--Rauzatuljannah-2022-UniversitasAlmuslim
-
-
+- Rachel Ardana Putra Ginting - 2022 - Politeknik Negeri Lhokseumawe
+- Rauzatuljannah-2022-UniversitasAlmuslim
 
 ### S
 
@@ -92,7 +92,7 @@ Let's Code Together!!
 
 ### T
 
--Tri Prabowo - 2021 - Universitas Asahan _
+- Tri Prabowo - 2021 - Universitas Asahan _
 
 ### U
 
