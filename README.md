@@ -13,7 +13,7 @@ Let's Code Together!!
 
 ### A
 
-- khairijaarafah - 2022 - Universitas serambi mekkah
+- 
 
 ### B
 
@@ -53,7 +53,7 @@ Let's Code Together!!
 
 ### K
 
--
+- khairijaarafah - 2022 - Universitas serambi mekkah
 
 ### L
 
