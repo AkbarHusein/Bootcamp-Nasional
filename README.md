@@ -85,7 +85,8 @@ Let's Code Together!!
 
 ### S
 
--
+- Siti Rahmah - 2021 - Universitas Teuku Umar_
+
 
 ### T
 
