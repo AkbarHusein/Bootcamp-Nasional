@@ -13,10 +13,13 @@ Let's Code Together!!
 
 ### A
 
+- Almaarif-2021-usm
+- Al Rizal Sukri - 2018 - Universitas Pembangunan Panca Budi
+- Al muhrezi-2022-Universitas Asahan_
 
 ### B
 
--
+- 
 
 ### C
 
@@ -48,7 +51,7 @@ Let's Code Together!!
 
 ### J
 
--
+- Jhosua Apriel Sylvester - 2021 - Universitas Pembangunan Pacabudi 
 
 ### K
 
@@ -60,15 +63,17 @@ Let's Code Together!!
 
 ### M
 
--
+- Muhammad irwandi - 2020 - universitas UIN Ar-raniry
 
 ### N
 
 - Nanang Restu Pradana - 2020 - Universitas Islam Negeri Ar-Raniry  
+- Nasruddin Said - 2020 - Uin Ar-Raniry
+- NazwaSafira-2022-UniversitasAlmuslim
 
 ### O
 
--
+-O
 
 ### P
 
@@ -80,15 +85,16 @@ Let's Code Together!!
 
 ### R
 
--
+- Rachel Ardana Putra Ginting - 2022 - Politeknik Negeri Lhokseumawe
+- Rauzatuljannah-2022-UniversitasAlmuslim
 
 ### S
 
--
+- Safril maulida - 2021 - Universitas Teuku Umar
 
 ### T
 
--
+- Tri Prabowo - 2021 - Universitas Asahan _
 
 ### U
 
@@ -108,7 +114,7 @@ Let's Code Together!!
 
 ### Y
 
--
+-Yahya Muhaimin Sinaga - 2020 - University Pembangunan Panca Budi MEDAN
 
 ### Z
 
