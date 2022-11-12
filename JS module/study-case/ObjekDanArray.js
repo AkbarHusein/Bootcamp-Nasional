@@ -1,5 +1,5 @@
 /** 1 :
- * Buatlah sebuah Array mahasiswa yang berisi dua buah object
+ * Buatlah sebuah Array bernama mahasiswa yang berisi dua buah object
  * yang memiliki property nama <string>, stambuk <number>, dan instansi <string>.
  */
 // TODO 1: Ketikkan kode Anda di bawah ini!
@@ -21,3 +21,6 @@
 
 /** 6 : Tampilkan nama pada Object didalam Array mahasiswa dengan menggunakan for loop atau yang sejenisnya*/
 // TODO 6: Ketikkan kode Anda di bawah ini!
+
+/** 7 : Ubahlah nama dari object index 0 Array mahasiswa menjadi Royhan*/
+// TODO 7: Ketikkan kode Anda di bawah ini!
