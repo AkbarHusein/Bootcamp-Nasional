@@ -13,7 +13,7 @@ Let's Code Together!!
 
 ### A
 
-- Ahmad Yani - 2019 - Universitas Xyz _(Contoh format [nama - angkatan - instansi])_
+- 
 
 ### B
 
@@ -81,7 +81,7 @@ Let's Code Together!!
 
 ### R
 
--
+- Rachel Ardana Putra Ginting - 2022 - Politeknik Negeri Lhokseumawe
 
 ### S
 
