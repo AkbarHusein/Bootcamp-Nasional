@@ -18,7 +18,7 @@ Let's Code Together!!
 
 ### B
 
--
+- 
 
 ### C
 
@@ -70,7 +70,7 @@ Let's Code Together!!
 
 ### O
 
--
+-O
 
 ### P
 
@@ -110,7 +110,7 @@ Let's Code Together!!
 
 ### Y
 
--
+-Yahya Muhaimin Sinaga - 2020 - University Pembangunan Panca Budi MEDAN
 
 ### Z
 
