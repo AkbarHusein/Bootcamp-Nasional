@@ -14,6 +14,7 @@ Let's Code Together!!
 ### A
 
 - Ahmad Yani - 2019 - Universitas Xyz _(Contoh format [nama - angkatan - instansi])_
+- Al muhrezi-2022-Universitas Asahan_
 
 ### B
 
