@@ -33,7 +33,7 @@ Let's Code Together!!
 
 ### F
 
--
+-FERDI SAMBO - 2022 - POLSEK SUNGGAL
 
 ### G
 
@@ -109,7 +109,7 @@ Let's Code Together!!
 
 ### Y
 
--Yahya Muhaimin Sinaga - 2020 - University Pembangunan Panca Budi MEDAN
+-
 
 ### Z
 
