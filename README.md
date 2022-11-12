@@ -35,7 +35,7 @@ Let's Code Together!!
 
 ### F
 
--FREDY RAMADHANTA.G - 22 - Universita almuslim
+- FREDY RAMADHANTA.G - 22 - Universita almuslim
 
 ### G
 
@@ -73,7 +73,7 @@ Let's Code Together!!
 
 ### O
 
--O
+- 
 
 ### P
 
@@ -92,9 +92,9 @@ Let's Code Together!!
 - Rauzatuljannah-2022-UniversitasAlmuslim
 
 ### S
-- Syahrian Lubis - 2020 - Universitas Pembangunan Panca Budi_
-=======
-- Siti Rahmah - 2021 - Universitas Teuku Umar_
+
+- Syahrian Lubis - 2020 - Universitas Pembangunan Panca Budi
+- Siti Rahmah - 2021 - Universitas Teuku Umar
 - Safril maulida - 2021 - Universitas Teuku Umar
 
 ### T
@@ -119,7 +119,7 @@ Let's Code Together!!
 
 ### Y
 
--Yahya Muhaimin Sinaga - 2020 - University Pembangunan Panca Budi MEDAN
+- Yahya Muhaimin Sinaga - 2020 - University Pembangunan Panca Budi MEDAN
 
 ### Z
 
