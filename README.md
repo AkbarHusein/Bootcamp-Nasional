@@ -13,7 +13,7 @@ Let's Code Together!!
 
 ### A
 
-- Ahmad Yani - 2019 - Universitas Xyz _(Contoh format [nama - angkatan - instansi])_
+- Almaarif-2021-Universitas-usm
 
 ### B
 
