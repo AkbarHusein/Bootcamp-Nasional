@@ -13,7 +13,7 @@ Let's Code Together!!
 
 ### A
 
-- Ahmad Yani - 2019 - Universitas Xyz _(Contoh format [nama - angkatan - instansi])_
+- Putri nabila - 2022 - Universitas samudra _(Contoh format [nama - angkatan - instansi])_
 
 ### B
 
