@@ -13,7 +13,7 @@ Let's Code Together!!
 
 ### A
 
-- Putri nabila - 2022 - Universitas samudra _(Contoh format [nama - angkatan - instansi])_
+- 
 
 ### B
 
@@ -73,7 +73,7 @@ Let's Code Together!!
 
 ### P
 
--
+- Putri nabila - 2022 - Universitas samudra 
 
 ### Q
 
