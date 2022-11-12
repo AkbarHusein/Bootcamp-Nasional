@@ -17,19 +17,19 @@ Let's Code Together!!
 
 ### B
 
--BAKSO BAKSO BAKSO  
+-BAKSO.... BAKSO.... BAKSO....  
 
 ### C
 
--
+-CEMAS KO DEKKKKK!!
 
 ### D
 
--
+-DONGO
 
 ### E
 
--
+-EZETTT DEKKK!!
 
 ### F
 
@@ -37,27 +37,27 @@ Let's Code Together!!
 
 ### G
 
--
+-G A S S
 
 ### H
 
--
+-H A U S 
 
 ### I
 
--
+-I N D O M I E
 
 ### J
 
--
+-J M B T - N -
 
 ### K
 
--
+-K I Y O W O
 
 ### L
 
--
+-L A R I .........
 
 ### M
 
@@ -69,7 +69,7 @@ Let's Code Together!!
 
 ### O
 
--
+-O
 
 ### P
 
@@ -77,19 +77,19 @@ Let's Code Together!!
 
 ### Q
 
--
+-Q U E E N
 
 ### R
 
--
+-R A S T A
 
 ### S
 
--
+-SESAT KO BANG!!
 
 ### T
 
--
+-TURU DEKKKK!!
 
 ### U
 
