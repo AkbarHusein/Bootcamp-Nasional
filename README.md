@@ -49,7 +49,7 @@ Let's Code Together!!
 
 ### J
 
-- Jhosua Apriel sylvester - 2021 - Universitas Pembangunan Pacabudi 
+- Jhosua Apriel Sylvester - 2021 - Universitas Pembangunan Pacabudi 
 
 ### K
 
