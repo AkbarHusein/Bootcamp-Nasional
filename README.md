@@ -90,6 +90,7 @@ Let's Code Together!!
 
 ### S
 
+- Siti Rahmah - 2021 - Universitas Teuku Umar_
 - Safril maulida - 2021 - Universitas Teuku Umar
 
 ### T
