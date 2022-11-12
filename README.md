@@ -13,9 +13,11 @@ Let's Code Together!!
 
 ### A
 
+
 - Almaarif-2021-usm
 - Al Rizal Sukri - 2018 - Universitas Pembangunan Panca Budi
 - Al muhrezi-2022-Universitas Asahan_
+
 
 ### B
 
@@ -77,7 +79,10 @@ Let's Code Together!!
 
 ### P
 
+
+- Putri nabila - 2022 - Universitas samudra 
 - putra ramadhan - 2022 - universitas samudra
+
 
 ### Q
 
