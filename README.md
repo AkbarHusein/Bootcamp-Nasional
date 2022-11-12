@@ -85,7 +85,7 @@ Let's Code Together!!
 
 ### S
 
--
+- Syahrian Lubis - 2020 - Universitas Pembangunan Panca Budi_
 
 ### T
 
