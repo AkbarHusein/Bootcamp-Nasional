@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Study case - Todo App</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <main>
+      <form>
+        <fieldset>
+          <legend>Todo App</legend>
+          <label for="title">Judul</label>
+          <input type="text" name="title" id="title" required />
+          <label for="message">Pesan</label>
+          <textarea
+            type="text"
+            name="message"
+            id="message"
+            rows="5"
+            required
+          ></textarea>
+          <button type="submit" name="submit">Simpan</button>
+        </fieldset>
+      </form>
+      <section id="left">
+        <fieldset>
+          <legend>Belum Selesai</legend>
+          <ul id="todo-onproses__wrapper"></ul>
+        </fieldset>
+      </section>
+      <section id="right">
+        <fieldset>
+          <legend>Selesai</legend>
+          <ul id="todo-done__wrapper"></ul>
+        </fieldset>
+      </section>
+    </main>
+    <script src="./js/script.js"></script>
+    <script src="./js/dom.js"></script>
+    <script src="./js/data.js"></script>
+  </body>
+</html>
