@@ -1,20 +1,18 @@
 function refreshDOM(data) {
   // TODO 7: Perbaiki kode di bawah ini agar sesuai dengan spesifikasi
-  const listBelumSelesai = document.getElementsByClassName(
-    'todo-onproses__wrapper__'
-  );
-  const listSelesai = document.getElementsByClassName('todo-done__wrapper__');
+  const listBelumSelesai = document.getElementById('todo-onproses__wrapper');
+  const listSelesai = document.getElementById('todo-done__wrapper');
 
   listBelumSelesai.innerHTML = '';
   listSelesai.innerHTML = '';
 
   for (let index = 0; index < data.length; index++) {
     //   TODO 8 : Ubah nilai undefined dari variable todoTitle menjadi nilai yang benar!
-    const todoTitle = undefined;
+    const todoTitle = data[index].title;
     //   TODO 9 : Ubah nilai undefined dari variable todoMessage menjadi nilai yang benar!
-    const todoMessage = undefined;
+    const todoMessage = data[index].message;
     //   TODO 10 : Ubah nilai undefined dari variable todoSelesai menjadi nilai yang benar!
-    const todoSelesai = undefined;
+    const todoSelesai = data[index].selesai;
 
     const todoItem = document.createElement('li');
     todoItem.classList.add('todo-item');
@@ -60,6 +58,8 @@ function refreshDOM(data) {
       });
 
       // TODO 11 : Tambahkan button btnDone dan btnDelete ke dalam btnActionWrapper
+      btnActionWrapper.appendChild(btnDone);
+      btnActionWrapper.appendChild(btnDelete);
 
       todoItem.appendChild(btnActionWrapper);
     }

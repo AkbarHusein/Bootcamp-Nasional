@@ -27,6 +27,7 @@ function addTodo() {
   };
 
   // TODO 5: Tambahkan todo baru ke array todoList!
-
+  todoList.push(newTodo);
   // TODO 6: Lakukan refresh DOM!
+  refreshDOM(todoList);
 }
